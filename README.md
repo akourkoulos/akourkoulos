@@ -6,6 +6,10 @@ I graduated from the Electrical & Computer Engineering School at the Technical U
 
 Some of my projects are:
 
+[Design in HDL of a DMA engine
+that complies with the AMBA 5
+CHI communication protocol](https://github.com/akourkoulos/CHI-DMA.git)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
