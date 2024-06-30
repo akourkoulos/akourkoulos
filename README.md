@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<!--
-**akourkoulos/akourkoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Angelos Kourkoulos and I am a Hardware/Software Engineer.
 
-Here are some ideas to get you started:
+I graduated from the Electrical & Computer Engineering School at the Technical University of Crete.
+
+Some of my projects are:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
