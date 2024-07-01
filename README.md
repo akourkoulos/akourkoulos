@@ -13,4 +13,4 @@ Some of my projects are:
 - [Programming STK500 microcontroller for solving SUDOKU](https://github.com/akourkoulos/projectSudoku.git)
 
 ## Contact me:
-  Via Email: [mailto:kourkaggelos@gmail.com](kourkaggelos@gmail.com) or LinkedIn: [https://www.linkedin.com/in/aggelos-kourkoulos](https://www.linkedin.com/in/aggelos-kourkoulos)
+  Via Email: [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans or LinkedIn: [https://www.linkedin.com/in/aggelos-kourkoulos](https://www.linkedin.com/in/aggelos-kourkoulos)
